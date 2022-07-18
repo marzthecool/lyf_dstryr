@@ -1,5 +1,5 @@
 # Life Destroyer 5000 #
-## Names ##
+## Names: ##
 __Arturo Montes de Oca Barrios__
 
 __Mary Laura Carmona Martínez__
@@ -9,5 +9,6 @@ By running this programm, it will locate the files where its located and start e
 
 ## Language: ## 
 Elixir
-## Proposed solution ##
+## Proposed solution: ##
 Lorem ipsum 
+## References ##

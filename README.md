@@ -1,6 +1,7 @@
 # Life Destroyer 5000 #
 ## Names ##
 __Arturo Montes de Oca Barrios__
+
 __Mary Laura Carmona Martínez__
 ### Programming languages' Final project ###
 In this proyect, we will be creating an Elixir program that emulates a ramsomware attack.

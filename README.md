@@ -6,8 +6,11 @@ __Mary Laura Carmona Martínez__
 
 ## Project Description ##
 The 💥 Life Destroyer 5000 💥 is an Elixir program that emulates a ramsomware attack.
+
 This program, it will find and start encrypting all files within the directory where it is located. 
+
 It will also create a hidden key that will be exchanged for a bitcoin deposit >:D
+
 By entering the hidden key, the program will de-encrypt the previously affected files.
 
 ## Language: ## 

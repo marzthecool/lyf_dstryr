@@ -9,3 +9,5 @@ By running this programm, it will locate the files where its located and start e
 
 ## Language: ## 
 Elixir
+## Proposed solution ##
+Lorem ipsum 

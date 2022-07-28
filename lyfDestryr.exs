@@ -1,4 +1,12 @@
-defmodule Tfiles do
+defmodule LyfDestryr do
+
+
+  def hashKey(str) do
+    :crypto.hash(:sha256,str)
+    |> Base.encode16() \
+    |> String.downcase()
+
+  end
 
   @doc """
   Sort the numbers found in each of the lines

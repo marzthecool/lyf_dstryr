@@ -7,10 +7,10 @@ __Mary Laura Carmona Martínez__
 ## Project Description ##
 The 💥 Life Destroyer 5000 💥 is an Elixir program that emulates a ramsomware attack.
 
-This program will find and start encrypting all the files **located within the directory** where it is located, **excluding itself**. 
+This program will find and start encrypting a selected file **located within the directory** where it is located, **excluding itself**. 
 
-The encryption will be done usign de SHA-256 hashing algorithm. 
-The SHA-256 algorithm is a cryptographic hash, also often referred to as a “digest”, “fingerprint” or “signature”, is an almost perfectly unique string of characters that is generated from a separate piece of input text, that in our case will be the text written on the files affected. The SHA-256 generates a 256-bit (32-byte) signature.
+The encryption will be done usign de Galois/Counter Mode algorithm. 
+The Galois/Counter Mode algorithm is a is a mode of operation for symmetric-key cryptographic block ciphers which is widely adopted for its performance. The operation is an authenticated encryption algorithm designed to provide both data authenticity (integrity) and confidentiality. GCM is defined for block ciphers with a block size of 128 bits.
 
 It will create a hidden key that will be sent to the attacker's email. The key can be exchanged for a bitcoin deposit >:D
 

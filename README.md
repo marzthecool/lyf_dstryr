@@ -28,7 +28,7 @@ iex.bat lyfDestryr.exs
 ## Executing the program ## 
 To encrypt a file:
 ```
-LyfDestryr.main("./Encrypted/Test_#_ENCRYPTED.txt", "./Decrypted/Test_#_DECRYPTED.txt", "decrypt")
+LyfDestryr.main("./Data/Test_#.txt", "./Encrypted/Test_#_ENCRYPTED.txt", "encrypt")
 ```
 
 To decrypt a file:
